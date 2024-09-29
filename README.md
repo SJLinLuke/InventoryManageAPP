@@ -67,7 +67,7 @@ An automobile tire stock management APP for a tire shop internal use.
 
 <p align="left">
   <img src="https://github.com/user-attachments/assets/a462b800-f180-435b-b1d7-6b5f182ad628" width="300"/>
-  <img src="[https://github.com/user-attachments/assets/a462b800-f180-435b-b1d7-6b5f182ad628](https://github.com/user-attachments/assets/459255f3-7be6-4dfd-8edd-8a63cb651a62)" width="300"/>
+  <img src="https://github.com/user-attachments/assets/459255f3-7be6-4dfd-8edd-8a63cb651a62" width="300"/>
 </p>
 
 
