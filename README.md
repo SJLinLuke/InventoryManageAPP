@@ -87,11 +87,11 @@ An automobile tire stock management APP for a tire shop internal use.
 
 | Date  | Version | Update Information | 
 | ------------- |:-------------:| :-------------:|
+|  2024/09/30    | 1.6.2  | [FIX] open camera in main thread |
 |  2024/09/06    | 1.6.1  | Hot fixes ( [FIX] auto swipe up view when tap on textfield that covered by keyboard, [FIX] use scrollView to fit the layout on iphone SE )|
 |  2024/08/21    | 1.6.0  | Brand new UI release |
 |  2024/05/04    | 1.5.2  | Performance tuning |
 |  2024/03/03    | 1.5.1  | Google Firebase Crashlytics integration |
-|  2024/02/19    | 1.5.0  | Notion integration and modification for working flow |
 
 ## Lastest Version 
 1.6.1
